@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MoodNation</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_janta">Janta</string>
+    <string name="title_critics">Critics</string>
+    <string name="title_party">Party</string>
+    <string name="intro_string">Some Crap</string>
+    <string name="party">Party</string>
+    <string name="compare">Compare</string>
+    <string name="tweets">Tweets</string>
+    <string name="positive">positive</string>
+    <string name="negative">negative</string>
+    <string name="neutral">neutral</string>
+
+</resources>

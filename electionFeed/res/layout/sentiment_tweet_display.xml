@@ -1,0 +1,22 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/watermark" >
+	<TableRow >
+	    
+    <TextView
+        android:id="@+id/tweet_sentiment_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/positive" />
+    </TableRow>
+    
+
+	<ListView
+	    android:id="@+id/listView2"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content" >
+	</ListView>
+
+</TableLayout>
